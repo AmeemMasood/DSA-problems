@@ -1,2 +1,3 @@
-This DSA directory which has solved DSA questions
+This DSA directory which has solved DSA questions and Algorithm
+
 
