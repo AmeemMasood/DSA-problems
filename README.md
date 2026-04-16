@@ -1,3 +1,3 @@
-## Serching Algorithms ##
+## Searching Algorithms ##
 
 
